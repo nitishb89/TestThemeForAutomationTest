@@ -1,2 +1,0 @@
-# TestThemeForAutomationTest
-Test
